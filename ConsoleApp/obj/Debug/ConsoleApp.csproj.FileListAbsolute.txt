@@ -1,0 +1,9 @@
+C:\Users\Cecilie\source\repos\Collections\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Cecilie\source\repos\Collections\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Cecilie\source\repos\Collections\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Cecilie\source\repos\Collections\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Cecilie\source\repos\Collections\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Cecilie\source\repos\Collections\ConsoleApp\bin\Debug\ClassLibrary.dll
+C:\Users\Cecilie\source\repos\Collections\ConsoleApp\bin\Debug\ClassLibrary.pdb
+C:\Users\Cecilie\source\repos\Collections\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Cecilie\source\repos\Collections\ConsoleApp\obj\Debug\ConsoleApp.pdb
